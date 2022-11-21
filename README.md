@@ -32,7 +32,7 @@
 
 ### ⭐️ Studying
 
-<img src="https://img.shields.io/badge/D 3-61DAFB?style=flat&logo=React&logoColor=white"/>
+<img src="https://img.shields.io/badge/React Native-61DAFB?style=flat&logo=React&logoColor=white"/>
 
 </br></br>
 
