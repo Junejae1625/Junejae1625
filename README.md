@@ -3,7 +3,6 @@
   ![header](https://capsule-render.vercel.app/api?&type=waving&color=99c2ff&height=250&section=header&text=Welcome!&fontSize=70&animation=scaleIn&fontColor=ffffff)
 
 
-  안녕하세요. 부트캠프 { 코드캠프 } 의 교육멘토 변재준입니다.
 
 # JaeJuneByun - Frontend Developer
 ### Junejae1625
