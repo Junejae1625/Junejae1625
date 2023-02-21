@@ -4,10 +4,8 @@
 
 
 
-# JaeJuneByun - Frontend Developer
-### Junejae1625
+## Junejae1625 - Frontend Developer
 
-<hr></hr>
 
 ### ⭐️ Tech Stack 
 
